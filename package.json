@@ -1,0 +1,22 @@
+{
+  "name": "klamali",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/miro016/klamali.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/miro016/klamali/issues"
+  },
+  "homepage": "https://github.com/miro016/klamali#readme",
+  "dependencies": {
+    "@angular/cli": "^15.1.2"
+  }
+}
